@@ -2,6 +2,8 @@
 
 ### 🚀 Full-Stack Developer | Building innovative web apps and AI solutions
 
+![Profile Views](https://komarev.com/ghpvc/?username=kit2824bad132-spec&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+
 ---
 
 ## 🙋 About Me
@@ -14,6 +16,20 @@
 
 ---
 
+## 🎓 Education
+
+| 🏫 College | 📚 Degree | 📅 Year |
+|---|---|---|
+| KIT - Kalaignarkarunanidhi Institute of Technology (Autonomous) | B.Tech Artificial Intelligence & Data Science | 3rd Year |
+
+---
+
+## 🔥 Coding Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kit2824bad132-spec&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -21,6 +37,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frameworks & Tools**
 
