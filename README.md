@@ -54,6 +54,20 @@
 
 ---
 
+## 🏆 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-sabari__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sabari_26/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-sabarivasan25-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sabarivasan25)
+[![Codeforces](https://img.shields.io/badge/Codeforces-sabari25-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sabari25)
+
+---
+
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1DeKhsV9okXe9p91lrFEfWbimhTQ8EFX-/view?usp=drivesdk)
+
+---
+
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sabarivasan-black?style=flat&logo=github)](https://github.com/kit2824bad132-spec)
+[![GitHub](https://img.shields.io/badge/GitHub-Sabarivasan-black?style=for-the-badge&logo=github)](https://github.com/kit2824bad132-spec)
